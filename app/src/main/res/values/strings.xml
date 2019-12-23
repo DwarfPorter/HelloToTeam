@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hello To Team</string>
+    <string name="HelloTeam">Привет Бригада!</string>
 </resources>
